@@ -1,6 +1,5 @@
 """
-A simple graphical program dislaying data control
-with JSON objects.
+A simple shape manipulation program.
 """
 
 import pygame, random, time
